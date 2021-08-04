@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31521.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AntMeehan.NServiceBusMissingMessage", "AntMeehan.NServiceBusMissingMessage\AntMeehan.NServiceBusMissingMessage.csproj", "{CF64B517-2BF3-48AC-A0F5-EE18A0F27EA8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AntMeehan.NServiceBusMissingMessage.Events", "AntMeehan.NServiceBusMissingMessage.Events\AntMeehan.NServiceBusMissingMessage.Events.csproj", "{0F770149-0343-43B2-AA77-1CC16CBC89C7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AntMeehan.NServiceBusMissingMessage.Commands", "AntMeehan.NServiceBusMissingMessage.Commands\AntMeehan.NServiceBusMissingMessage.Commands.csproj", "{28AC5EB0-2E66-4605-AD2D-1609BDDEC831}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF64B517-2BF3-48AC-A0F5-EE18A0F27EA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF64B517-2BF3-48AC-A0F5-EE18A0F27EA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF64B517-2BF3-48AC-A0F5-EE18A0F27EA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF64B517-2BF3-48AC-A0F5-EE18A0F27EA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F770149-0343-43B2-AA77-1CC16CBC89C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F770149-0343-43B2-AA77-1CC16CBC89C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F770149-0343-43B2-AA77-1CC16CBC89C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F770149-0343-43B2-AA77-1CC16CBC89C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28AC5EB0-2E66-4605-AD2D-1609BDDEC831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28AC5EB0-2E66-4605-AD2D-1609BDDEC831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28AC5EB0-2E66-4605-AD2D-1609BDDEC831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28AC5EB0-2E66-4605-AD2D-1609BDDEC831}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA4424CF-562B-4FBD-8C43-0DE9CE690445}
+	EndGlobalSection
+EndGlobal
